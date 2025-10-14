@@ -1,4 +1,4 @@
-# Qwen Embedding Service
+# API Embedding Service (Default is Qwen)
 
 A high-performance, production-ready embedding service powered by Qwen embedding models. This service provides a simple REST API for generating text embeddings with built-in caching, concurrency control, and configurable settings.
 
