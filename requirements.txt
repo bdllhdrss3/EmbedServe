@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sentence-transformers
+torch
+transformers
+accelerate
+diskcache
+python-dotenv
+numpy
